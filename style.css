@@ -12,3 +12,19 @@ h1{
     color: #F6BF23;
 }
 
+.dadosDaVotacao{
+    align-items: center;
+    background: linear-gradient(to bottom, #5C1D66, #1F0D22);
+    margin: 2rem;
+    display: flex;
+    flex-direction: column;
+    border-radius: 0.5rem;
+}
+
+input{
+    margin: 0.9rem;
+    height: 1.5rem;
+    width: 75%;
+    border: none;
+    border-radius: 0.2rem;
+}
