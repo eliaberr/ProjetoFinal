@@ -1,0 +1,14 @@
+body{
+    background-color: #CCCCCC;
+}
+
+.container{
+    background: linear-gradient(to bottom, #220D25,#631E6F );
+    text-align: center;
+    color: #CCCCCC;
+}
+
+h1{
+    color: #F6BF23;
+}
+
