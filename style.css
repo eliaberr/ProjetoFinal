@@ -6,6 +6,7 @@ body{
     background: linear-gradient(to bottom, #220D25,#631E6F );
     text-align: center;
     color: #CCCCCC;
+    border-radius: 0.4rem;
 }
 
 h1{
@@ -27,4 +28,29 @@ input{
     width: 75%;
     border: none;
     border-radius: 0.2rem;
+}
+
+.divVotacao{
+    background: linear-gradient(to bottom, #3D5EEE, #71CAFE );
+    border-color: #2835CC ;
+    border-style: solid;
+    border-width: 0.4rem;
+    border-radius: 0.8rem;
+    margin: 1rem;
+    font-size: 1.5rem;
+    padding: 1rem;
+}
+
+button{
+    background-color: #1D0C20;
+    border: none;
+    color: #CCCCCC;
+    height: 2rem;
+    width: 40%;
+    margin-bottom: 0.5rem;
+}
+
+.votacao{
+    display: flex;
+    
 }
