@@ -57,9 +57,7 @@ input{
 
 .divVotacao{
     background: linear-gradient(to bottom, #3D5EEE, #71CAFE );
-    border-color: #2835CC ;
-    border-style: solid;
-    border-width: 0.4rem;
+    border: 0.4rem solid #2835CC ;
     border-radius: 0.8rem;
     margin: 1rem;
     font-size: 1.5rem;
