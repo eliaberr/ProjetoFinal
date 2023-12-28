@@ -1,3 +1,28 @@
+@media screen and (max-width: 850px) {
+    
+    html{
+        font-size: 14px;
+    }
+
+    .votacao{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .dados{
+        width: 60%;
+    }
+
+    .container{
+        padding: 0.5rem;
+    }
+    
+    .dadosDaVotacao{
+        padding: 0.5rem;
+    }
+
+}
+
 body{
     background-color: #CCCCCC;
 }
@@ -52,7 +77,6 @@ button{
 
 .votacao{
     display: flex;
-    
 }
 
 .copy{
