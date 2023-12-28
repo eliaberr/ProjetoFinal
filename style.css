@@ -25,7 +25,7 @@ h1{
 input{
     margin: 0.9rem;
     height: 1.5rem;
-    width: 75%;
+    width: 28rem;
     border: none;
     border-radius: 0.2rem;
 }
@@ -53,4 +53,8 @@ button{
 .votacao{
     display: flex;
     
+}
+
+.copy{
+    padding-bottom: 1rem;
 }
